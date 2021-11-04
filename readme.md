@@ -1,6 +1,6 @@
 # よくある見出しを自動生成
 
-[https://10daisuke64.github.io/heading_maker/](https://10daisuke64.github.io/heading_maker/)
+[https://10daisuke64.github.io/heading_maker_2/](https://10daisuke64.github.io/heading_maker_2/)
 
 ## 追加機能
 
